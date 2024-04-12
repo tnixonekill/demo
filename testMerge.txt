@@ -1,3 +1,0 @@
-Day la file merge
-
-Noi day chua file merge.txt cua branch main ne
