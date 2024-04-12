@@ -1,0 +1,3 @@
+Day la file merge
+
+Noi day chua file merge.txt cua brand testMerge ne
